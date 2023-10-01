@@ -33,12 +33,7 @@ To run this Quiz Application locally, follow these steps:
 3. Install dependencies for the React and Vue apps:
 
       ```bash
-      # For React app
-        cd react-app
-        npm install
-        
-        # For Vue app
-        cd vue-app
+      # For React app and Vue app
         npm install
 
 
