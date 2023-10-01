@@ -1,6 +1,6 @@
 # Quiz Application
 
-![image](https://github.com/Sayanabha/QuizApp1/assets/30752262/31750b1a-1f19-49e9-b636-7e2407c8da4b)
+![image](https://github.com/Sayanabha/QuizApp1/assets/30752262/1f4409c5-834f-4506-a989-dd5067ea3fb4)
 
 This is a Quiz Application built as an assignment for Secops Solutions. It allows users to take a quiz, answer questions, and get immediate feedback on their answers. The application is built using React, Vue, and npm.
 
